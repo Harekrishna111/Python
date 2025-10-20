@@ -19,3 +19,4 @@ print(type(b))
 
 c = 12j
 print(type(c))
+
