@@ -1,8 +1,8 @@
 """string"""
-a = "krishna"
-print(a[3])
-print(a[-2])
+#a = "krishna"
+#print(a[3])
+#print(a[-2])
 
-b = "krishna coder"
-print(a[0:7:1])
-print(a[::])
+#b = "krishna coder"
+#print(a[0:7:1])
+#print(a[::])
